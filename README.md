@@ -8,7 +8,7 @@
 🔭 I’m currently working on **[Netflix Clone]**<br><br>🌱 I’m currently learning **[React.js]**<br><br>👨‍💻 All of my projects are available at [GitHub](GitHub)<br><br>💬 Ask me about **Web Development || Web Designing**<br><br>📫 How to reach me **abdulqadirwisdom@gmail.com**<br><br>⚡ Fun fact **The Programming Language Name Java was Selected While Drinking Hot Coffee.**<br><br>
 
 # 🏆 Views Count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadirazam"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadirazam" /> </p>
 
 <br>
 
