@@ -17,19 +17,17 @@
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulQadirAzam&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbdulQadirAzam&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-<br>
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+# 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadirazam&show_icons=true&locale=en" alt="abdulqadirazam" /></p><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadirazam&" alt="abdulqadirazam" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadirazam&show_icons=true&locale=en&layout=compact" alt="abdulqadirazam" /></p><br/>
+
+<br>
+<br>
+<br>
 <br>
 
 
