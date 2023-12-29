@@ -21,10 +21,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadirazam&show_icons=true&locale=en" alt="abdulqadirazam" /></p><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadirazam&" alt="abdulqadirazam" /></p><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadirazam&show_icons=true&locale=en&layout=compact" alt="abdulqadirazam" /></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&" alt="AbdulQadirAzam" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p><br/>
 
+<br>
 <br>
 <br>
 <br>
