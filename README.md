@@ -2,13 +2,33 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 ---
 <h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
-<h3 align="center">A PASSIONATE WEB DEVELOPER FROM PAKISTAN</h3>
+<h3 align="center">A passionate web developer from Pakistan</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on **[Netflix Clone]**<br><br>🌱 I’m currently learning **[React.js]**<br><br>👨‍💻 All of my projects are available at [GitHub](GitHub)<br><br>💬 Ask me about **Web Development || Web Designing**<br><br>📫 How to reach me **abdulqadirwisdom@gmail.com**<br><br>⚡ Fun fact **The Programming Language Name Java was Selected While Drinking Hot Coffee.**<br><br>
+<br>
 
 # 🏆 Views Count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadirazam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadirazam&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulQadirAzam" /> </p>
+
+<br>
+
+# 💫 About Me:
+
+- 🔭 I’m currently working on **Netflix Clone**
+
+- 🌱 I’m currently learning **React.js**
+
+- 🤝 My WhatsApp Web Clone [MeApp](https://whatsappwebinsight.netlify.app)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AbdulQadirAzam](https://github.com/AbdulQadirAzam)
+
+- 💬 Ask me about **Web Development || Web Designing**
+
+- 📫 How to reach me **abdulqadirwisdom@gmail.com**
+
+- 📄 Know about my experiences [https://fuchsia-audi-87.tiiny.site/](https://fuchsia-audi-87.tiiny.site/)
+
+- ⚡ Fun fact **The Programming Language Name Java was Selected While Drinking Hot Coffee.**
+  
 
 <br>
 
@@ -17,20 +37,32 @@
 
 <br>
 
+# 📊 GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p></br>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&" alt="AbdulQadirAzam" /></p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdulQadirAzam&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&" alt="AbdulQadirAzam" /></p><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p><br/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ---
 
