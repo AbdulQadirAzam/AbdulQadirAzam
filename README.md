@@ -39,15 +39,15 @@
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadirazam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p></br>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadirazam&" alt="AbdulQadirAzam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&" alt="AbdulQadirAzam" /></p>
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadirazam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p>
 
 <br>
 <br>
@@ -57,7 +57,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulqadirazam&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AbdulQadirAzam&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 
