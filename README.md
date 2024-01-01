@@ -11,6 +11,15 @@
 
 <br>
 
+# 🔗 Social Media
+
+<p dir="auto"><a href="https://www.facebook.com/abdulqadirazaam" rel="nofollow"><img src="https://camo.githubusercontent.com/7a20e6344e999300af0fcf52137a2b82a4158481ad5771ce743e20d0c0a84c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://abdulqadirazam.netlify.app//" rel="nofollow"><img src="https://camo.githubusercontent.com/1d74bc3f465784fd1f7c583f7ef0a5fc44b0cc20fbf06771238bdd213276a3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Website" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/AbdulQadirAzam"><img src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/abdulqadirazam/" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
+<br>
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on **Netflix Clone**
@@ -37,32 +46,30 @@
 
 <br>
 
-# 📊 GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&show_icons=true&locale=en" alt="AbdulQadirAzam" /></p></br>
+# 📊 GitHub Stats
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulQadirAzam&" alt="AbdulQadirAzam" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulQadirAzam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AbdulQadirAzam&locale=en&mode=daily&theme=dracula&hide_border=false" height="220" alt="streak graph"  />
+</div>
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulQadirAzam&show_icons=true&locale=en&layout=compact" alt="AbdulQadirAzam" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdulQadirAzam&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+# 🏆 GitHub Trophies  
 
 <br>
 
-## ✍️ Random Dev Quote
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulQadirAzam" alt="AbdulQadirAzam" /></a> </p>
+   
+<br>   
+
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br>
 
 ---
 
