@@ -45,6 +45,11 @@
 
 <br>
 
+# 📊 GitHub Stats:
+<br>
+
+<br>
+
 # 🏆 GitHub Trophies  
 
 <br>
